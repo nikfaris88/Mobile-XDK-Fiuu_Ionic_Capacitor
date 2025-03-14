@@ -22,6 +22,7 @@ log.txt
 /www
 /platforms
 /plugins
+/.editorconfig
 
 # Compiled output
 /dist
@@ -71,4 +72,5 @@ Thumbs.db
 android/.gradle
 android/.idea
 android/app/build
+android/local.properties
 ~/.gradle
