@@ -14,8 +14,6 @@ This is a working Ionic Capacitor payment sample application that can be a guide
 
 ## How does it work ? 
 
-<img src="https://github.com/FiuuPayment/Mobile-XDK-Ionic_Capacitor/assets/89504625/ac496bd7-9ff5-4c7e-8a66-66aa670936e5">
-
  1. User chooses the Payment option/Bank they wish to pay with 
  2. Press "Proceed".
  3. input your bank credentials until finish payment. 
