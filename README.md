@@ -23,7 +23,7 @@ This is a working Ionic Capacitor payment sample application that can be a guide
 
 you must be a registered Fiuu Merchant to receive your own credentials for you to use or test this module.
 
-To do so you can contact us here : sales-sa@fiuu.com
+To do so you can contact us here : sales@fiuu.com
 
 ## Getting Started
 
